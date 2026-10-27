@@ -1,7 +1,7 @@
 # C-G0 Notepad
-## A retro-terminal lab book
 
 ## About
+**A Retro-Terminal Lab Book**  
 C-G0 Notepad is a simple and lightweight scientific scratchpad.
 It supports rapid logging compared to large ELNs and is designed to act as an aid during measurements or computational projects. In short, it is a 'smart', tailored, notepad for experimental and computational work.
 It was originally designed for molecular electronics but is useful in nanoscience in general. It may also be useful for other scientific fields, particularly those that require rapid logging of experimental data or computational results.

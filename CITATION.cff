@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Morris"
+	given-names: "James M. F."
+	orcid: "https://orcid.org/https://orcid.org/0009-0000-2333-3973"
+title: "C-G0 Notepad"
+version: "1.0.0"
+date-released: 2026-10-27
+url: "https://github.com/CSloaf/C-G0-Notepad"
+repository-code: "https://github.com/ CSloaf/C-G0-Notepad"
+license: "GPL-3.0"
+abstract: >
+  C-G0 Notepad is a simple and lightweight scientific scratchpad. It supports rapid logging compared to large ELNs and is designed to act as an aid during measurements or computational projects. In short, it is a 'smart', tailored, notepad for experimental and computational work. It was originally designed for molecular electronics but is useful in nanoscience in general. It may also be useful for other scientific fields, particularly those that require rapid logging of experimental data or computational results. It is designed to be used in a terminal environment, with a focus on speed and minimalism.
